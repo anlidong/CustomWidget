@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".demo.StatusSwitchActivity"></activity>
+        <activity android:name=".demo.StatusSwitchActivity" />
+        <activity android:name=".demo.fragmenttabhost.FragmentTabActivity"></activity>
     </application>
 
 </manifest>
